@@ -1,8 +1,3 @@
-## Matrix inversion is usually a costly computation and there may be some 
-benefit to caching the inverse of a matrix rather than compute it 
-repeatedly (there are also alternatives to matrix inversion that we will 
-not discuss here). Your assignment is to write 
-
 ## This pair of functions calculate and cache the inverse of a matrix.
 
 ## Creates a "special" matrix object which has the capacity to store its
